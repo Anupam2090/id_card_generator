@@ -29,13 +29,14 @@ The project requires the following libraries, listed in `requirements.txt`:
 - Pillow  
 - qrcode  
 
-To install all dependencies:
+## Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 
 ---
 
+---
 ## 📥 Excel Format
 
 Make sure your Excel file has the following columns:
@@ -48,6 +49,8 @@ Make sure your Excel file has the following columns:
 
 ---
 
+---
+
 ## 📤 Output
 
 - All generated cards will be saved in the `static/id_cards/` folder as **PNG** files.
@@ -56,5 +59,9 @@ Make sure your Excel file has the following columns:
 
 ---
 
+---
+
 ## 🌐 GitHub Integration
 The project includes detailed steps for version control and pushing code to GitHub for easy collaboration and tracking.
+
+---
