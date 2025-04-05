@@ -34,9 +34,9 @@ The project requires the following libraries, listed in `requirements.txt`:
 ```bash
 pip install -r requirements.txt
 
----
+```
 
----
+```
 ## 📥 Excel Format
 
 Make sure your Excel file has the following columns:
@@ -47,9 +47,9 @@ Make sure your Excel file has the following columns:
 
 - The `Photo` column **must match** the filename in the `static/photos/` directory (e.g., `john.png` should exist there).
 
----
+```
 
----
+```
 
 ## 📤 Output
 
@@ -57,11 +57,11 @@ Make sure your Excel file has the following columns:
 - You can preview them directly in your **browser** or download them for **printing**.
 
 
----
+```
 
----
+```
 
 ## 🌐 GitHub Integration
 The project includes detailed steps for version control and pushing code to GitHub for easy collaboration and tracking.
 
----
+```
