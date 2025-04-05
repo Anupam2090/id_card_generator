@@ -36,8 +36,9 @@ pip install -r requirements.txt
 
 ```
 
-```
 ## 📥 Excel Format
+
+```
 
 Make sure your Excel file has the following columns:
 
@@ -48,20 +49,19 @@ Make sure your Excel file has the following columns:
 - The `Photo` column **must match** the filename in the `static/photos/` directory (e.g., `john.png` should exist there).
 
 ```
+## 📤 Output
 
 ```
-
-## 📤 Output
 
 - All generated cards will be saved in the `static/id_cards/` folder as **PNG** files.
 - You can preview them directly in your **browser** or download them for **printing**.
 
 
 ```
+## 🌐 GitHub Integration
 
 ```
 
-## 🌐 GitHub Integration
 The project includes detailed steps for version control and pushing code to GitHub for easy collaboration and tracking.
 
 ```
